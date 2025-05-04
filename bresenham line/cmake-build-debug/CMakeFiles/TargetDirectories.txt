@@ -1,0 +1,3 @@
+C:/Users/dell/Desktop/computer graphics/bresenham line/cmake-build-debug/CMakeFiles/bresenham_line.dir
+C:/Users/dell/Desktop/computer graphics/bresenham line/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/Desktop/computer graphics/bresenham line/cmake-build-debug/CMakeFiles/rebuild_cache.dir

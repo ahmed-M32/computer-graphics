@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\dell\Desktop\computer graphics Select CMakeLists.txt
